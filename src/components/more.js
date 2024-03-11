@@ -86,7 +86,6 @@ const More = ({ openModal }) => {
           </div>
         </div>
       </div>
-      {/* <Footer /> */}
     </section>
   );
 };

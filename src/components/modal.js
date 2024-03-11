@@ -1,6 +1,5 @@
 import Card from "./card";
 
-// eslint-disable-next-line react/prop-types
 function Modal({ closeModal }) {
   return (
     <div className="fixed top-0 left-0 w-full h-screen flex items-center justify-center z-[100]">
